@@ -1,0 +1,1 @@
+This is just my practice complete authentication system and works super fine, this project is MERN stack based and i learned various skills while completing this project. Project is not hosted but if you download the zip then it runs fine on your local machine.  
